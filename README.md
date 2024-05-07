@@ -25,7 +25,7 @@ Waiting for client connection
 ```
 
 ### Spustenie hry
-Po tom ako sa nám podarilo spustiť program pre ovládanie bota je potrebné spustenie hry samotnej. Po stiahnuťí hry z odkazu uvedeného v prvej časti tejto príručky je potrebné rozbalenie tohot priečinku.
+Po tom ako sa nám podarilo spustiť program pre ovládanie bota je potrebné spustenie hry samotnej. Po stiahnutí hry z odkazu uvedeného v prvej časti tejto príručky je potrebné rozbalenie tohot priečinku.
 Spustiteľný súbor hry sa nachádza na tejto ceste:
 ```
 .../TUKE_AI_Client/Windows/DFC.exe
